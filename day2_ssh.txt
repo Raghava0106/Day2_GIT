@@ -6,4 +6,10 @@ DAY - 2
 3) Open public file and copy the key
 4) Then go to the settings in git, click ssh and the paste the key which you've copied from the public file and save it.
 5) Then clone in the git bash ---  git clone <ssh link>
-6)
+6) then go to inside file
+7) touch day2_ssh.txt
+8) nano day2_ssh.txt
+9) Add some content and save then exit
+10) git add day2_ssh.txt
+11) git commit -m"some message"
+12) git push
