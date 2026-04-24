@@ -1,0 +1,9 @@
+DAY - 2
+
+                                                   SSH METHOD
+1) ssh-keygen
+2) Go to file manager in system and path is c/users/ragha/.ssh
+3) Open public file and copy the key
+4) Then go to the settings in git, click ssh and the paste the key which you've copied from the public file and save it.
+5) Then clone in the git bash ---  git clone <ssh link>
+6)
