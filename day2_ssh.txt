@@ -13,3 +13,10 @@ DAY - 2
 10) git add day2_ssh.txt
 11) git commit -m"some message"
 12) git push
+
+
+NOte: 
+--> For example we have commit 1, later i given one more commit which is commit 2. So in this case that commit 2 will have commit 1 data also. 
+--> Similarly, commit 3 will have commit2 and commit 1 data. 
+--> commit 4 will have commit 3, commit 2 and commit 1.
+--> If you don't want the recent commit changes into the repository you can remove it from git.
